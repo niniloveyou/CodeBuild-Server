@@ -1,5 +1,6 @@
 rootProject.name = 'CodeBuild-Server'
 
+include 'build-api'
 include 'build-core'
 include 'build-dal'
 include 'build-deploy'
